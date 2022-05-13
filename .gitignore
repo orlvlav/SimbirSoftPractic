@@ -1,4 +1,3 @@
-*.iml
-out/
-.idea/
-SimbirSoft. Week1/
+SimbirSoft. Week 1/**/*.iml
+SimbirSoft. Week 1/**/out/
+SimbirSoft. Week 1/**/.idea/
