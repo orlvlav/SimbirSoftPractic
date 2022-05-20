@@ -1,3 +1,11 @@
 *.iml
 **/out/
 **/.idea/
+
+*.iml
+out/
+.idea/
+
+Week 2/**/*.iml
+Week 2/**/out
+Week 2/**/.idea
