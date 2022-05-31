@@ -1,0 +1,3 @@
+SimbirSoft. Week 3/**/*.iml
+SimbirSoft. Week 3/**/out/
+SimbirSoft. Week 3/**/.idea/
