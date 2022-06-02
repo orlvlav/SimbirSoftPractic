@@ -45,5 +45,6 @@ public class Main {
            System.out.print(array[i] + " ");
            i = i + temp;
        }
+
     }
 }
